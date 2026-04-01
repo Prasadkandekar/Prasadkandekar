@@ -90,7 +90,7 @@ profile = {
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**DigiBachat**](https://github.com/Prasadkandekar/DigiBachat) | Group savings & lending platform — 7+ groups, 45+ users; JWT auth, loan management, dashboards | React, Node.js, Express, PostgreSQL |
-| [**MindSafe**](https://github.com/Prasadkandekar/MindSafe) | AI-powered mental health platform with real-time voice companion, sentiment analysis & crisis detection | Python, Node.js, Groq, ElevenLabs, LiveKit |
+| [**MindFlow**](https://github.com/Prasadkandekar/mindflow) | AI-powered mental health platform with real-time voice companion, sentiment analysis & crisis detection | Python, Node.js, Groq, ElevenLabs, LiveKit |
 | [**FinallyPlaced**](https://github.com/Prasadkandekar/FinallyPlaced) | Placement preparation platform | React, Node.js |
 | [**Stylique**](https://github.com/Prasadkandekar/Stylique-The-PBL-Project) | Fashion e-commerce web app | React, MongoDB |
 
