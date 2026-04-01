@@ -1,188 +1,91 @@
-# 🚀 Welcome to  Mr Prasad's Cosmic Code Universe! 🌌
+# Prasad Kandekar
 
-<div align="center">
-  
-<!-- Animated Space Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Prasad%20Kandekar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header"/>
+**Full Stack Developer · AI/ML Enthusiast · Open Source Contributor**
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Code+Craftsman+%F0%9F%9B%A0%EF%B8%8F;Space+Explorer+%F0%9F%8C%8C;Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Kandekar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-kandekar/)
+[![X](https://img.shields.io/badge/X-@prasad_k1211-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/prasad_k1211)
+[![Instagram](https://img.shields.io/badge/Instagram-prasadkandekar.in-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/prasadkandekar.in)
+[![Email](https://img.shields.io/badge/Email-prasadkandekar2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadkandekar2@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Prasadkandekar&style=flat-square&color=0D9488&label=Profile+Views)](https://github.com/Prasadkandekar)
 
 ---
 
-## 🛸 About This Space Traveler
+## About
 
-```javascript
-const prasad = {
-    location: "Earth 🌍 (Currently)",
-    currentMission: "Building digital galaxies with code",
-    workingOn: "Conquering the web, one component at a time",
-    learningGoals: "Exploring AI/ML, Full-Stack Development & Cloud Technologies",
-    collaboration: "Always ready for intergalactic coding adventures",
-    funFact: "I debug in my dreams and dream in code! 💭",
-    motto: "Code today, deploy tomorrow, debug forever! 🔄"
-};
+I'm a developer based in Pune, India, focused on building scalable web applications and exploring the intersection of AI/ML with real-world problem solving. I'm currently working on a CCTV-based AI attendance system and deepening my expertise in full-stack development, cloud infrastructure, and competitive programming.
+
+```python
+{
+  "focus":       ["Full Stack Development", "AI/ML", "Cloud Technologies"],
+  "currently":   ["Next.js Applications", "Kubernetes", "ML Algorithms"],
+  "open_to":     ["Collaborations", "Open Source", "Interesting Problems"],
+  "location":    "Pimpri-Chinchwad, Maharashtra, India"
+}
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+---
+
+## Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend & Languages**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**DevOps & Databases**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🛠️ My Cosmic Toolkit
+## Featured Projects
 
-<div align="center">
-
-### 🌟 Frontend Galaxy
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind" />
-
-### ⚡ Backend Universe  
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,cpp,c" />
-
-### 🤖 AI/ML Cosmos
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,flask,django" />
-
-### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,mongodb,mysql" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Portfolio**](https://github.com/Prasadkandekar/Portfolio) | Personal portfolio website | Next.js, TailwindCSS |
+| [**FinallyPlaced**](https://github.com/Prasadkandekar/FinallyPlaced) | Placement preparation platform | React, Node.js |
+| [**Stylique**](https://github.com/Prasadkandekar/Stylique-The-PBL-Project) | Fashion e-commerce web app | React, MongoDB |
+| [**Crop Prediction**](https://github.com/Prasadkandekar/Crop-Prediction-Web-App) | ML-based crop recommendation system | Python, Flask, Scikit-learn |
 
 ---
 
-## 📊 Space Mission Statistics
+## GitHub Stats
 
-<div align="center">
-  
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasadkandekar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF&border_color=64FFDA)
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Prasadkandekar&show_icons=true&theme=default&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=374151&bg_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkandekar&layout=compact&theme=default&hide_border=true&title_color=0D9488&text_color=374151&bg_color=ffffff" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prasadkandekar&theme=tokyonight&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=64FFDA&dates=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prasadkandekar&theme=default&hide_border=true&ring=0D9488&fire=0D9488&currStreakLabel=0D9488)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkandekar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF&border_color=64FFDA)
-
-</div>
-
----
-
-## 🌟 Featured Repositories (My Greatest Hits!)
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prasadkandekar&repo=Portfolio&theme=tokyonight&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF&border_color=64FFDA)](https://github.com/Prasadkandekar/Portfolio)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prasadkandekar&repo=FinallyPlaced&theme=tokyonight&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF&border_color=64FFDA)](https://github.com/Prasadkandekar/FinallyPlaced)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prasadkandekar&repo=Stylique-The-PBL-Project&theme=tokyonight&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF&border_color=64FFDA)](https://github.com/Prasadkandekar/Stylique-The-PBL-Project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prasadkandekar&repo=Crop-Prediction-Web-App&theme=tokyonight&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF&border_color=64FFDA)](https://github.com/Prasadkandekar/Crop-Prediction-Web-App)
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prasadkandekar&bg_color=ffffff&color=374151&line=0D9488&point=0D9488&area=true&hide_border=true)
 
 ---
 
-## 🎯 Current Missions
+## What I'm Working On
 
-<div align="center">
-
-```mermaid
-graph TD
-    A[🚀 Current Projects] --> B[Building Next.js Apps]
-    A --> C[Learning Kubernetes]
-    A --> D[Contributing to Open Source]
-    A --> E[Machine Learning & Data Science]
-    A --> F[AI-Based Attendance System]
-    A --> G[DSA Mastery]
-    A --> H[Machine Coding Practice]
-    
-    B --> B1[Deployed on Vercel]
-    C --> C1[Container Orchestration]
-    D --> D1[Making the web better, one PR at a time]
-    E --> E1[Exploring ML Algorithms & Data Analysis]
-    F --> F1[CCTV-based College Attendance Project]
-    G --> G1[Solving algorithmic problems daily]
-    H --> H1[System design & coding interviews]
-```
-
-</div>
+- 🤖 **AI Attendance System** — CCTV-based facial recognition for college attendance tracking
+- ☸️ **Kubernetes** — Learning container orchestration and deployment strategies
+- 🧩 **DSA & Competitive Programming** — Solving algorithmic problems daily
+- 🌐 **Open Source** — Contributing to projects and improving existing tools
 
 ---
 
-## 🎮 Fun Zone
-
-<div align="center">
-
-### 🔥 My Coding Journey!
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
-<br/>
-<em>Visualizing my GitHub contribution pattern like a boss! 📊</em>
-
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prasadkandekar&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Let's Connect Across the Digital Universe!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-kandekar/)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prasad_k1211)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prasadkandekar.in)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadkandekar2@gmail.com)
-
-</div>
-
----
-
-## 💭 Random Dev Thoughts
-
-<div align="center">
-
-> *"There are only 10 types of people in the world: those who understand binary and those who don't."* 😄
-
-> *"Code is like humor. When you have to explain it, it's bad."* 🤓
-
-> *"Programming is 10% writing code and 90% figuring out why it doesn't work."* 🔍
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-
-</div>
-
----
-
-## 🚀 Quick Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Prasadkandekar&color=64FFDA&style=for-the-badge&label=SPACE+VISITORS)
-
-![Followers](https://img.shields.io/github/followers/Prasadkandekar?color=64FFDA&style=for-the-badge&logo=github&label=COSMIC+FOLLOWERS)
-
-![Stars](https://img.shields.io/github/stars/Prasadkandekar?color=64FFDA&style=for-the-badge&logo=github&label=TOTAL+STARS)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Thanks for visiting my cosmic code space! 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=120&section=footer&animation=twinkling" alt="footer"/>
-
-</div>
+*Feel free to reach out for collaborations, project discussions, or just a conversation about tech.*
