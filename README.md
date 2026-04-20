@@ -37,7 +37,7 @@
 
 ## About
 
-Second-year Computer Engineering student at **Dr. D.Y. Patil Institute of Technology, Pune** (CGPA: 9.65/10), with hands-on industry experience building production-grade systems. I've shipped real features — 35+ REST APIs, a facial recognition attendance platform used by 3000+ students, and AI-powered full-stack applications. I care about clean architecture, performance, and building things that matter.
+Third-year Computer Engineering student at **Dr. D.Y. Patil Institute of Technology, Pune** (CGPA: 9.65/10), with hands-on industry experience building production-grade systems. I've shipped real features — 35+ REST APIs, a facial recognition attendance platform used by 3000+ students, and AI-powered full-stack applications. I care about clean architecture, performance, and building things that matter.
 
 ```python
 profile = {
